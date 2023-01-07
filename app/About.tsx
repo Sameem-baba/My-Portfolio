@@ -14,8 +14,8 @@ export default function About() {
             improvement with the latest NFT Project. Since then, software has
             been more of a hobby for me than a dream, I spent days developing my
             hobby, I tried to improve my software knowledge for at least 6 hours
-            a day in 1 year, finally here I am. Thank you for reading{" "}
-            <i className="fa fa-heart" />
+            a day in 1 year, finally here I am.
+            {/* <i className="fa fa-heart" /> */}
           </p>
         </div>
         <div className="relative flex-shrink-0 order-first md:order-last">
